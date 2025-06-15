@@ -1,0 +1,11 @@
+----- File Analysis Report -----
+Total Lines: 1
+Total Words: 68
+Characters (excluding spaces): 364
+Characters (including spaces): 431
+Vowel Frequency:
+  a: 32
+  e: 31
+  i: 35
+  o: 29
+  u: 8
